@@ -11,15 +11,11 @@
 + Custom Table View Cell, Dynamic Table View Cell Height and Self-Sizing Cell.
 + Multiple Sections in Table View.
 
----
-
 ![](gif/TableView.gif)
 
 ---
 
 + Delete Rows from Table View.
-
----
 
 ![](gif/DeleteRows.gif)
 
@@ -27,15 +23,11 @@
 
 + Drag and Drop to move Cell in Table View.
 
----
-
 ![](gif/DragAndDrop.gif)
 
 ---
 
 + Use show segue to transition from master to Detail View Controller.
-
----
 
 ![](gif/ShowSegue.gif)
 
